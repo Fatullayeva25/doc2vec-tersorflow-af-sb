@@ -7,6 +7,7 @@ This project implements the Doc2Vec model using TensorFlow. Doc2Vec is an extens
 - [Overview](#overview)
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
+- [References](#references)
 
 ## Overview
 
