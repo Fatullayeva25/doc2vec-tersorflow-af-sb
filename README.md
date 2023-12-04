@@ -27,3 +27,8 @@ The project structure is organized as follows:
 
 - data/: Directory to store input datasets.
 - train.py: Contains the source code and script for the Doc2Vec model and trining.
+
+## References
+
+-	Blog Post on "Practical Guide to Doc2Vec" by Radim Řehůřek: Radim Řehůřek, the creator of Gensim, has written a comprehensive blog post that serves as a practical guide to implementing Doc2Vec. It covers various aspects, from data preprocessing to model training and evaluation.
+https://rare-technologies.com/doc2vec-tutorial/
