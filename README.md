@@ -32,3 +32,5 @@ The project structure is organized as follows:
 
 -	Blog Post on "Practical Guide to Doc2Vec" by Radim Řehůřek: Radim Řehůřek, the creator of Gensim, has written a comprehensive blog post that serves as a practical guide to implementing Doc2Vec. It covers various aspects, from data preprocessing to model training and evaluation.
 https://rare-technologies.com/doc2vec-tutorial/
+- "Doc2Vec Tutorial" on Kaggle: Kaggle, a platform for data science and machine learning, offers a step-by-step tutorial on implementing Doc2Vec. This tutorial includes a Python notebook with code examples and explanations, making it a great resource for hands-on learning. https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial/notebook
+
