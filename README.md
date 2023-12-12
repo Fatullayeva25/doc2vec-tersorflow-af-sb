@@ -26,8 +26,10 @@ Ensure you have the following dependencies installed:
 
 The project structure is organized as follows:
 
-- data/: Directory to store input datasets.
-- train.py: Contains the source code and script for the Doc2Vec model and trining.
+- Dataset/: Directory to store input datasets and link to the dataset.
+- Doc2VecTensorflow.ipynb: Contains the source code and script for the Doc2Vec model implemented in Tensowflow.
+- Deep_Learnin_Presentation.pptx: Project Presentation
+- Linear_model_for_evaluation.py: Contains the linear model implemented for evaluation of the Doc2vec model.
 
 ## References
 
