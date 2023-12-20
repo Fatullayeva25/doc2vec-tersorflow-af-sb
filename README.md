@@ -38,5 +38,7 @@ https://rare-technologies.com/doc2vec-tutorial/
 - "Doc2Vec Tutorial" on Kaggle: Kaggle, a platform for data science and machine learning, offers a step-by-step tutorial on implementing Doc2Vec. This tutorial includes a Python notebook with code examples and explanations, making it a great resource for hands-on learning. https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial/notebook
 - Doc2Vec: Understanding Document Embeddings for Natural Language Processing https://medium.com/@evertongomede/doc2vec-understanding-document-embeddings-for-natural-language-processing-ba244e55eba3
 - Doc2Vec in NLP https://www.geeksforgeeks.org/doc2vec-in-nlp/
+- Tensorflow and Machine Learning Cookbook https://dl.ebooksworld.ir/motoman/Packt.TensorFlow.Machine.Learning.Cookbook.www.EBooksWorld.ir.pdf
+- https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Cookbook/blob/master/Chapter%2007/doc2vec.py
 
 
